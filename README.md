@@ -1,6 +1,6 @@
 ## Overview
 
-![screenshot]('demo')
+![screenshot](https://i.ibb.co/bKhdvDg/Movie-List-with-use-Context.png 'demo')
 
 ## Built With
 
@@ -10,7 +10,7 @@
 
 ```bash
 # Clone this repository
-$ git clone
+$ git clone https://github.com/jruizsilva/movie-list-with-use-context
 
 # Install dependencies
 $ npm install --save styled-components
